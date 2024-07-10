@@ -1,0 +1,4 @@
+body {
+    background: linear-gradient(to right, rgb(219, 255, 221), rgb(191, 190, 223)); /* Linear gradient */
+    height: 100vh; /* Set the height to cover the viewport */
+}
